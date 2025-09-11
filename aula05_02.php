@@ -11,7 +11,7 @@
     echo "<pre>"; print_r($_REQUEST);echo "</pre>";
     $login=$_POST["login"];
     $senha=$_POST["senha"];
-    echo "Nome: $nome<br>";
+    echo "Nome: $nome<br>"; 
     echo "Senha: $senha<br>";
     ?>
 </body>
